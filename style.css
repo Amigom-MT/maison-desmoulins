@@ -103,6 +103,18 @@ h1 {
     stroke-width: 2.5;
 }
 
+.link-icon {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+}
+
+.logo-mini {
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+}
+
 footer {
     color: #999;
     font-size: 0.9em;
